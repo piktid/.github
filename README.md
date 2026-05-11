@@ -1,4 +1,4 @@
-# PiktID - Generative AI for your images
+# PiktID - Visual Automations at Scale
 
 ## 🎨 Studio Platform (API v1)
 General-purpose image editing tools
@@ -9,9 +9,12 @@ General-purpose image editing tools
 
 ## 👔 On-model Platform (API v2)
 Fashion industry workflows with batch processing
-- [Model Swap](https://github.com/piktid/model-swap)
 - [Flat-lay to On-model](https://github.com/piktid/flat-to-model)
-- [View all On-model apps →](link)
+- [Model Swap](https://github.com/piktid/model-swap)
+- [Create Packshot](https://github.com/piktid/create-packshot)
+- [Create Identity](https://github.com/piktid/create-identity)
+
+- [View all On-model apps →](https://app.on-model.com)
 
 ## 📚 Documentation
 - [API v1 Docs](https://docs.piktid.com/docs/v1)
