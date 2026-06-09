@@ -9,7 +9,7 @@ General-purpose image editing tools
 
 ## 👔 On-model Platform (API v2)
 Fashion industry workflows with batch processing
-- [Flat-lay to On-model](https://github.com/piktid/flat-2-model)
+- [Flat-lay to On-model](https://github.com/piktid/flat-to-model)
 - [Model Swap](https://github.com/piktid/model-swap)
 - [Create Packshot](https://github.com/piktid/create-packshot)
 - [View all On-model apps →](https://app.on-model.com)
