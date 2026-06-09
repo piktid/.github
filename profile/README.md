@@ -1,4 +1,4 @@
-# PiktID - Generative AI for your images
+# PiktID - Visual Automations at Scale
 
 ## 🎨 Studio Platform (API v1)
 General-purpose image editing tools
