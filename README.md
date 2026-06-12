@@ -12,7 +12,7 @@ Fashion industry workflows with batch processing
 - [Flat-lay to On-model](https://github.com/piktid/flat-to-model)
 - [Model Swap](https://github.com/piktid/model-swap)
 - [Create Packshot](https://github.com/piktid/create-packshot)
-- [View all On-model apps →](https://app.on-model.com)
+- [View all On-model apps →](https://on-model.com)
 ### Utilities
 - [Create Identity](https://github.com/piktid/create-identity)
 - [Detail Repair](https://github.com/piktid/detail-repair)
